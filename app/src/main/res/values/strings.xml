@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LigthExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add</string>
+    <string name="error_item_not_created">New element not created</string>
+    <string name="new_item_input_hint">New item title</string>
+    <string name="key">oooo</string>
+</resources>
